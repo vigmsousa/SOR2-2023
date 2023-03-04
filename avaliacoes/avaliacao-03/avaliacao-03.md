@@ -2,6 +2,9 @@
 
 Feito:
 Prática realizada
+Arquivo criado
+Respostas registradas
 
 Para fazer:
-Abrir o arquivo disponibilizado em .docx no Google Docs, colocar as respostas, salvar como arquivo PDF e subir para o GitHub
+Salvar em arquivo PDF
+Enviar a atividade
